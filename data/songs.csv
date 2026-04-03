@@ -1,11 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,mood_tags,instrumentalness,lyricalness
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,85,2020s,euphoric|uplifting,0.15,0.80
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,62,2020s,nostalgic|dreamy,0.70,0.10
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,74,2010s,aggressive|powerful,0.30,0.65
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,48,2020s,peaceful|dreamy,0.85,0.05
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,91,2020s,aggressive|euphoric,0.10,0.75
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,35,2010s,dreamy|peaceful,0.95,0.02
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,41,2000s,nostalgic|warm,0.40,0.55
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,67,2010s,nostalgic|dark,0.60,0.30
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,55,2020s,focused|peaceful,0.80,0.05
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,58,2020s,uplifting|warm,0.20,0.70
+11,Velvet Throne,Bass Cartel,hip-hop,intense,0.88,96,0.55,0.85,0.08,79,2020s,aggressive|dark,0.15,0.90
+12,Autumn Letters,Maple & Vine,folk,melancholy,0.30,84,0.35,0.42,0.94,32,2010s,nostalgic|bittersweet,0.35,0.75
+13,Neon Carnival,DJ Photon,electronic,energetic,0.95,140,0.78,0.92,0.03,88,2020s,euphoric|powerful,0.70,0.15
+14,Moonlit Sonata,Clara Strings,classical,relaxed,0.22,68,0.62,0.30,0.97,29,1990s,peaceful|bittersweet,0.98,0.00
+15,Burning Asphalt,Iron Veil,metal,angry,0.97,172,0.25,0.50,0.06,53,2000s,aggressive|dark,0.25,0.80
+16,Summer Breeze,Rosa Camino,latin,happy,0.72,104,0.88,0.90,0.40,76,2010s,euphoric|warm,0.20,0.70
+17,Silk Pillow,Myla Rose,r&b,romantic,0.50,92,0.74,0.70,0.45,64,2020s,warm|dreamy,0.15,0.85
+18,Dust & Diesel,Hank Ridgeway,country,melancholy,0.45,100,0.40,0.55,0.82,38,2000s,nostalgic|bittersweet,0.25,0.80
+19,Cloud Nine,Neon Echo,pop,energetic,0.85,128,0.90,0.87,0.12,82,2020s,euphoric|uplifting,0.10,0.85
+20,Deep Current,Orbit Bloom,ambient,focused,0.32,64,0.50,0.38,0.88,22,2010s,focused|peaceful,0.92,0.03
